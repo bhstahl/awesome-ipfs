@@ -147,9 +147,9 @@ content:
     description: >
       Distributed, peer-to-peer chat application on IPFS.
   - title: Partyshare
-    website: https://partysha.re
+    website: https://busterlabs.github.io/Partyshare
     description: >
-      A simple file sharing app.
+      A free, open source file sharing application, built on the peer-to-peer hypermedia protocol IPFS.
   - title: FileNation
     website: https://filenation.io/
     description: >
